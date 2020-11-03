@@ -1,3 +1,5 @@
+# Copyright 2020 Twitter, Inc.
+# SPDX-License-Identifier: Apache-2.0
 
 import argparse
 from tqdm import tqdm
